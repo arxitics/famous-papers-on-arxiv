@@ -1,13 +1,13 @@
-## astro-ph: Astrophysics
+## Astrophysics
 
-### astro-ph.GA: Astrophysics of Galaxies
+### Astrophysics of Galaxies (astro-ph.GA)
 
-### astro-ph.CO: Cosmology and Nongalactic Astrophysics
+### Cosmology and Nongalactic Astrophysics (astro-ph.CO)
 
-### astro-ph.EP: Earth and Planetary Astrophysics
+### Earth and Planetary Astrophysics (astro-ph.EP)
 
-### astro-ph.HE: High Energy Astrophysical Phenomena
+### High Energy Astrophysical Phenomena (astro-ph.HE)
 
-### astro-ph.IM: Instrumentation and Methods for Astrophysics
+### Instrumentation and Methods for Astrophysics (astro-ph.IM)
 
-### astro-ph.SR: Solar and Stellar Astrophysics
+### Solar and Stellar Astrophysics (astro-ph.SR)
